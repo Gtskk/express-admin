@@ -46,7 +46,7 @@
     "admin": "./bin/admin"
   },
   "bugs": {
-    "url": "https://github.com/simov/express-admin/issues"
+    "url": "https://github.com:Gtskk/express-admin/issues"
   },
   "dependencies": {
     "async": "0.9.0",
@@ -86,7 +86,7 @@
     "tarball": "https://registry.npmjs.org/express-admin/-/express-admin-1.2.8.tgz"
   },
   "gitHead": "63a79ee86c3d5eacdcaba6f9d819022c8917529c",
-  "homepage": "https://github.com/simov/express-admin",
+  "homepage": "https://github.com:Gtskk/express-admin",
   "keywords": [
     "mysql",
     "mariadb",
@@ -101,8 +101,8 @@
   "main": "./app",
   "maintainers": [
     {
-      "email": "simeonvelichkov@gmail.com",
-      "name": "simov"
+      "email": "iamgtskk@gmail.com",
+      "name": "Gtskk"
     }
   ],
   "name": "express-admin",
@@ -110,7 +110,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simov/express-admin.git"
+    "url": "git+https://github.com:Gtskk/express-admin.git"
   },
   "scripts": {
     "test": "make test"
